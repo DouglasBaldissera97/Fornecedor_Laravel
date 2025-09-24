@@ -17,7 +17,6 @@ return new class extends Migration
             $table->string('cnpj', 14)->unique(); // cnpj obrigatório e único
             $table->string('email', 255)->nullable(); // email opcional
             $table->dateTime('criado_em');       // data de criação
-            $table->softDeletes();               // para softDeletes (deleted_at)
         });
     }
 
