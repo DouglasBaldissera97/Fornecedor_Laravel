@@ -12,7 +12,7 @@
 
 Este projeto é um exemplo de API para Fornecedores.
 Para mais detalhes sobre o plano de migração de PHP para Laravel, acesse o nosso documento em PDF.
-[Clique aqui para ver a documentação](plano-de-migracao-para-laravel-tabela-fornecedores.pdf)
+<b>[Clique aqui para ver o plano de migração](plano-de-migracao-para-laravel-tabela-fornecedores.pdf)</b>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
